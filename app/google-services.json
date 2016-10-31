@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "76151432436",
+    "firebase_url": "https://hyojung-20646.firebaseio.com",
+    "project_id": "hyojung-20646",
+    "storage_bucket": "hyojung-20646.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76151432436:android:211a77868358ee1c",
+        "android_client_info": {
+          "package_name": "com.example.froze.firebase_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76151432436-cq0ocbd54oq6vuokgtij2h65op4tvb8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.froze.firebase_database",
+            "certificate_hash": "DA39A3EE5E6B4B0D3255BFEF95601890AFD80709"
+          }
+        },
+        {
+          "client_id": "76151432436-d06nv9gausgthlb2sv502mjstdjagci8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2GZvrYplr7fHWA8-kNg8YoCfcKmi9Mtg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76151432436-d06nv9gausgthlb2sv502mjstdjagci8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76151432436:android:78f763cde8e0f5b1",
+        "android_client_info": {
+          "package_name": "com.froze.firebase_massage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76151432436-d06nv9gausgthlb2sv502mjstdjagci8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2GZvrYplr7fHWA8-kNg8YoCfcKmi9Mtg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76151432436:android:3066baab394dcfed",
+        "android_client_info": {
+          "package_name": "com.froze.firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76151432436-d06nv9gausgthlb2sv502mjstdjagci8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2GZvrYplr7fHWA8-kNg8YoCfcKmi9Mtg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
